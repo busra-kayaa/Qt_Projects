@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>image/blok.png</file>
+        <file>image/kursun.png</file>
+    </qresource>
+</RCC>
